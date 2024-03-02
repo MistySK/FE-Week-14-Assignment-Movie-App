@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #dff2fc;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px;
+    padding: 40px;
+  }
+  
+  .movie {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .movie img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .reviews {
+    margin-top: 10px;
+  }
+  
+  .review {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
